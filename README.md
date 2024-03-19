@@ -9,9 +9,6 @@ This is a simple React web application that provides random pieces of advice on 
 - Responsive design, suitable for various screen sizes.
 - Easy to use and intuitive interface.
 
-## Preview
-
-![Random Advice App Preview](/preview.png)
 
 ## Demo
 
